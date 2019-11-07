@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.Properties.Resources.resources
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.Form1.resources
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.exe.config
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.exe
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.pdb
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.exe
+C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.pdb

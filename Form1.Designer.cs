@@ -21,6 +21,7 @@
         }
 
         public System.Windows.Forms.TextBox ResultBlock;
+        private System.Windows.Forms.Button StartButton;
     }
 }
 

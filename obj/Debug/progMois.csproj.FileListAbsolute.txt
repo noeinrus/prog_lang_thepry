@@ -7,3 +7,13 @@ C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосе�
 C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.pdb
 C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.exe
 C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.pdb
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.exe.config
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.exe
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\bin\Debug\progMois.pdb
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.Form1.resources
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.Properties.Resources.resources
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.exe
+\\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.pdb

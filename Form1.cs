@@ -51,9 +51,9 @@ namespace progMois
             this.PerformLayout();
 
         }
-        const string file_name = "о";
+        const string file_name = "text.txt";
 
-        private enum c_state { H, CS, VS, ER };
+        private enum c_state { H, CS, VS, ER, END};
 
         string analyze_file()
         {
@@ -81,11 +81,61 @@ namespace progMois
                                 res_str += "H; ";
                                 break;
                             }
+
+							case c_state.CS:{
+								switch(simb)
+								{
+									case '0':
+									{
+										CS = c_state.VS;
+										break;
+									}
+									case '1':
+									{
+										CS = c_state.END;
+										break;
+									}
+									default:
+									{
+										CS = c_state.ER;
+										break;
+									}
+								}                                    
+                                res_str += "CS; ";
+                                break;
+                            }
+							
+							case c_state.VS:{
+								switch(simb)
+								{
+									case '0':
+									{
+										CS = c_state.CS;
+										break;
+									}
+									case '1':
+									{
+										CS = c_state.END;
+										break;
+									}
+									default:
+									{
+										CS = c_state.ER;
+										break;
+									}
+								}                                    
+                                res_str += "VS; ";
+                                break;
+                            }
                         }
                         i++;
-                    } while (/*CS != c_state.S &&*/ CS != c_state.ER);
+                    } while (CS != c_state.END && CS != c_state.ER && i < line.Length);
                     if (CS == c_state.ER)
                         res_str += "ERROR! ";
+					if (CS == c_state.END)
+                        res_str += "End";
+					else
+						res_str += "Not end!";
                 }
             }
             catch (FileNotFoundException ex)
@@ -97,7 +147,8 @@ namespace progMois
 
         private void StartButton_Click(object sender, EventArgs e)
         {
-            ResultBlock.Text = analyze_file();
+			ResultBlock.Clear();
+			ResultBlock.Text = analyze_file();
         }
     }
 }

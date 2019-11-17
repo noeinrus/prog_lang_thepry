@@ -17,3 +17,13 @@ C:\Users\admin\Desktop\Контрольная работа по ТЯП Мосе�
 \\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.exe
 \\Mac\Home\Desktop\Контрольная работа по ТЯП Мосева\program\progMois\obj\Debug\progMois.pdb
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\bin\Debug\progMois.exe.config
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\bin\Debug\progMois.exe
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\bin\Debug\progMois.pdb
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.csprojAssemblyReference.cache
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.Form1.resources
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.Properties.Resources.resources
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.csproj.GenerateResource.cache
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.csproj.CoreCompileInputs.cache
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.exe
+C:\Users\geniy\OneDrive\Рабочий стол\Учеба лиса\prog_lang_thepry\obj\Debug\progMois.pdb
